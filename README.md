@@ -12,3 +12,4 @@
  - [Row Level Security- PowerBI Service](https://github.com/manoj-panicker-github/PowerBI/blob/main/RLS-%20PowerBI%20Service.png)
  - [Building organizational Apps](https://github.com/manoj-panicker-github/PowerBI/blob/main/Organizational%20App.png)
  - [Depoyment using Pipelines](https://github.com/manoj-panicker-github/PowerBI/blob/main/Pipeline%20configuration.png)
+ - [Data Model](https://github.com/manoj-panicker-github/PowerBI/blob/main/Data%20Model.png)
