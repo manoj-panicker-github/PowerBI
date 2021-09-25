@@ -1,7 +1,19 @@
 # PowerBI Deskotp and PowerBI Service
 ** MN ANalystics - Restaurant Inspections end-to-end implementation. **
  
- Topics
+** Introduction to Project**
+ MN Analystics Inspectional Services* Services*, a restaurant health inspection agency.
+
+**Objectives**
+ - Load the raw MN Analytics Inspectional Services data into Power BI Service
+ - Build reports & dashboards within a company workspace
+ - Automate dataflows and schedule updates
+ - Share and collaborate with your peers and teams
+ 
+** Goal**
+ - Use Power BI Service (and Desktop) to build scalable reports & dashboards from the inspection data that can be shared across the company for collaboration
+ 
+** Topics**
  - [Dataflow](https://github.com/manoj-panicker-github/PowerBI/blob/main/Dataflow.png)
  - [PowerBi Desktop reports](https://github.com/manoj-panicker-github/PowerBI/blob/main/Inspections%20%20%26%20Violations%20-%20Page.png)
  - [DAX](https://github.com/manoj-panicker-github/PowerBI/blob/main/DAX-%20Measures.png)
