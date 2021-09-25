@@ -2,6 +2,7 @@
 ** MN ANalystics - Restaurant Inspections end-to-end implementation. **
  
 ** Introduction to Project**
+
  MN Analystics Inspectional Services* Services*, a restaurant health inspection agency.
 
 **Objectives**
