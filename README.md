@@ -1,5 +1,5 @@
 # PowerBI Deskotp and PowerBI Service
-** MN ANalystics - Restaurant Inspections end-to-end implementation. **
+**MN ANalystics - Restaurant Inspections end-to-end implementation. **
  Topics
  - Dataflow
  - PowerBi Desktop reports
